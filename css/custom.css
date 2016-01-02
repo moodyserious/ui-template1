@@ -1,0 +1,232 @@
+
+/*-- -----------------------------------Home page --------------------------------------------*/
+
+/*---------------------------------Navigation Bar ----------------------------------------------*/
+.customnav{
+    background-color: #212728 !important;
+    border: none !important;
+}
+
+.customnav a{
+    padding-top:25px !important;
+    color:white !important;
+    font-size: large;
+    margin-left: 10px !important;
+}
+
+.customnav a:hover, a.active{
+    background: #af473d !important;
+}
+
+.navlinks ul{
+   margin-left: 350px !important;
+}
+
+.navlinks ul li a{
+    font-size: 12px;
+}
+.brand{
+    margin-top:20px;
+    margin-left:300px;
+    color:white;
+}
+
+.homeimage{
+    margin-top: -20px;
+}
+
+img{
+    width:100%;
+}
+
+/*---------------------------------Home Page Image ------------------------------------------------*/
+
+.wrapper {
+    position: relative;
+}
+
+.wrapper img {
+    display: block;
+    margin-top:-20px;
+    height:500px;
+    width:100%;
+
+}
+
+/*---------------------------------Home Page (Second section) -----------------------------------*/
+
+.secondrow{
+   display:block;
+   background:#e7e7e7 ;
+    padding-bottom:70px;
+
+}
+
+.secondrowContent{
+    margin-top:80px;
+    font-size:12px;
+
+}
+
+.secondrowParaColor{
+    color:#a9acad;
+}
+
+
+.secondrowParaColor a{
+    color:red;
+}
+
+.secondRowicons{
+    float:left;
+    width:100px;
+    height:100px;
+    margin-right:10px;
+}
+
+
+/*-------------------------------Home Page (Third Section) -----------------------------------------*/
+
+
+.thirdrowContent{
+     margin-top:100px;
+}
+
+.hrTextBtw{
+    color:red;
+}
+
+.thirdrowImage{
+    margin-top: 130px;
+    height:340px;
+    width:340px;
+}
+
+
+/*-----------------------------Home Page (Fourth Section) --------------------------------------------*/
+
+.fourthrowBox{
+    margin-top:70px;
+    background: #e54c3d !important;
+    color:white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+
+}
+
+.fourthrowContent{
+    margin-top:50px;
+}
+
+@font-face{
+    font-family: "FjallaOne-Regular";
+    font-weight: normal;
+    src: url(FjallaOne-Regular.ttf);
+}
+
+@font-face{
+    font-family: "Lato-Regular";
+    font-weight: normal;
+    src: url(Lato-Regular.ttf);
+}
+
+
+.jumbotronpic{
+    margin-top:25px;
+    height: 80px;
+    width:80px;
+
+}
+
+.latofont {
+    font-family: Lato-Regular;
+}
+
+
+.fjallafont {
+    font-family: FjallaOne-Regular;
+}
+
+.inputbox{
+    border-radius: 25px;
+
+}
+
+.subscribebtn{
+    margin-top: 60px;
+    border-radius: 25px;
+    background: black;
+    color:white;
+    border-color: black;
+}
+
+
+/*----------------------------------Home Page (Last Section) -------------------------------------*/
+
+.lastrowContent{
+    margin-top:70px;
+}
+
+.jumbotronlastSec{
+    margin-top:20px;
+    background: #e8e9e9 !important;
+    border-radius: 20px;
+    height:440px;
+
+}
+
+.lastInput{
+    border-radius: 20px;
+
+}
+
+.glyphicon-home {
+    margin-top:10px;
+    font-size: 30px;
+
+}
+
+.glyphicon-earphone {
+    margin-top:10px;
+    font-size: 30px;
+
+}
+
+.glyphicon-envelope{
+    margin-top:10px;
+    font-size: 30px;
+
+}
+
+.borders{
+    border: 1px solid red;
+}
+.lastSecRedHead{
+    color:#e54c3d;
+}
+
+
+
+/*--------------------------------------Footer ----------------------------------------------------*/
+.footercss{
+    background-color: #202628;
+    width: 100%;
+    color:white;
+}
+
+.footerContent{
+     margin-top:20px;
+ }
+
+.footerLinks a{
+    color:white;
+}
+
+.slashcolor{
+    color: #7a7a77;
+}
+
+.colorbtn{
+    background: #af473d;
+    border-radius: 20px;
+}
